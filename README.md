@@ -29,7 +29,6 @@ Created a project on [supabase.com](https://supabase.com) named
 people-directory.
 
 # 2. Create the database table
-Ran the following SQL in the Supabase SQL Editor:
 <img width="563" height="212" alt="image" src="https://github.com/user-attachments/assets/53e1a719-ea93-4081-becd-092be430d16c" />
 
 # 3. Build the front-end
